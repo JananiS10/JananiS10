@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @JananiS10
-- 👀 I’m interested in datascience and cybersecurity
-- 🌱 I’m currently learning datascience.
-- 😄 Pronouns: she/her
+👋Hi! I’m Janani — a Data Science enthusiast and graduate student passionate about solving real-world problems with data-driven insights.
+
+currently pursuing an M.Sc. in Data Science at SASTRA University, I enjoy building predictive models, exploring machine learning, and applying analytics to domains like healthcare, climate, and business.
+
+Skills: Python | R | SQL | Machine Learning | Data Visualization | Statistical Analysis  
+Interests: AI for social good, explainable AI, and turning raw data into actionable stories.
+
+Projects:
+- Stroke risk prediction with clinical & genomic data
+- Climate change trend forecasting
+- Business analytics with clustering & sentiment analysis
+
+Open to collaborations, learning, and contributing to impactful projects.  
+Let’s connect: [LinkedIn][(https://www.linkedin.com/in/janani-senthilkumar-1b6bb3270)| 📧 janukumar1204@gmail.com
 
 
-<!---
-JananiS10/JananiS10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
